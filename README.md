@@ -135,11 +135,9 @@ This project helps identify:
 ```
 Ecommerce-SQL-Analysis/
 │
-├── data.csv
-├── clean_data.csv
 ├── ecommerce_sql_report.docx
 ├── README.md
-└── sql_queries.sql
+└── Ecommerce-sql-queries.pdf
 ```
 
 
